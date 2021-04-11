@@ -1,4 +1,4 @@
-[<- go back to the previous page](../README.md)
+[<- go back to the previous page](../chestxray/README.md)
 
 # Outline Part 1
 1. Import libraries, read the data, and set up directories
