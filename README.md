@@ -3,7 +3,7 @@ This Gibhub page is to share Machine Learning related knowledge and projects tha
 
 # Lecture Slides
 
-# Projects
+# [Projects](Projects/README.md)
 
 ### Contact info
 - eschoi.stanford@gmail.com
