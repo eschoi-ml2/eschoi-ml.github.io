@@ -9,7 +9,22 @@
 - Image Index: 112,120 entries
 
 - Finding Labels: 'No Finding’ + 14 thorax disease labels 
-(Cardiomegaly, Emphysema, Effusion, Hernia, Infiltration, Mass, Nodule, Atelectasis, Pneumothorax, Pleural Thickening, Pneumonia, Fibrosis, Edema, Consolidation)
+|Labels|
+|:-----------:|
+|Cardiomegaly |
+|Emphysema    |
+|Effusion     |
+|Hernia       |
+|Infiltration |
+|Mass         | 
+|Nodule       | 
+|Atelectasis  |
+|Pneumothorax | 
+|Pleural Thickening |
+|Pneumonia          |
+|Fibrosis           |
+|Edema              |
+|Consolidation      |
 
 - Meta data: Follow-up #, Patient Age, Patient Gender, View Position, Original Image size (Width, Height), Original Image Pixel Spacing (x, y) 
 
