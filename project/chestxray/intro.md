@@ -10,7 +10,7 @@
 
 - Finding Labels: 'No Finding’ + 14 thorax disease labels 
 |index |Labels             |
-|-----:|:-----------------:|
+| -----:|:-----------------:|
 |1     |Cardiomegaly       |
 |2     |Emphysema          |
 |3     |Effusion           |
