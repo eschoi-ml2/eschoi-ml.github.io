@@ -12,3 +12,6 @@
 (Cardiomegaly, Emphysema, Effusion, Hernia, Infiltration, Mass, Nodule, Atelectasis, Pneumothorax, Pleural Thickening, Pneumonia, Fibrosis, Edema, Consolidation)
 
 - Meta data: Follow-up #, Patient Age, Patient Gender, View Position, Original Image size (Width, Height), Original Image Pixel Spacing (x, y) 
+
+## Chest X-ray14 sample images
+![xraysample](images/sample.png)
