@@ -27,6 +27,7 @@
   13    | Edema              
   14    | Consolidation      
 
+
 - Meta data: Follow-up #, Patient Age, Patient Gender, View Position, Original Image size (Width, Height), Original Image Pixel Spacing (x, y) 
 
 ## Chest X-ray14 sample images
