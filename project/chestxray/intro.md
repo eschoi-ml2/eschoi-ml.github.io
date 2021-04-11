@@ -1,8 +1,10 @@
 [<- go back to the previous page](../README.md)
 
-# Introduction: Chest X-ray14 dataframe
+# Introduction
 
+## Chest X-ray14 dataframe
 
+![dataframe](images/dataframe.png)
 
 - Image Index: 112,120 entries
 
