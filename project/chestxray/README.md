@@ -4,7 +4,7 @@
 
 ## Outline
 - [Introduction: NIH Chest X-ray14 dataset](intro.md)
-- [**Walk through Part1** Exploratory Data Analysis]() 
+- [**Walk through Part1** Exploratory Data Analysis](chestxray-part1(1).md) 
 - [Key challenges](keychallenge.md)
   * [Multi-label classification](keychallenge.md)
   * [Class imbalance](keychallenge.md)
