@@ -4,12 +4,12 @@
 
 ## Outline
 - Introduction: NIH Chest X-ray14 dataset
-- *Walk through Part1*. Exploratory Data Analysis 
+- **Walk through Part1** Exploratory Data Analysis 
 - Key challenges
   * Multi-label classification
   * Class imbalance
   * Data leakage
   * Computation ability for big data
-- *Walk through Part2*. Deep Learning Process
-- *Walk through Part3*. Evaluation of Models
+- **Walk through Part2** Deep Learning Process
+- **Walk through Part3** Evaluation of Models
 - Conclusion
