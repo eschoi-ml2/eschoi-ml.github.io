@@ -32,7 +32,7 @@
 ### 2.2 Weighted loss: Weighted binary cross-entropy
 - postive weight for label j
 
-    ![math1](images/math1.png)
+    ![math1](images/math1.png):  $ w_{pj} = \frac{The-total-number-of-train-set}{2 * The-number-of-positives-in-calss-j} $
 - negative wieght for label j
 
     ![math2](images/math2_2.png)
