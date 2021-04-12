@@ -21,7 +21,13 @@
     * AUC(multi-label=True)  
 
 ## 2. Class imbalance
+![count](image/count.png)
 
+- Weighted loss
+- Proper metrics 
+    * ROC AUC, PR AUC, F1-score 
+    * Recall, Precision
+    * Do not use Accuracy
 
 ## 3. Data leakage
 - Patient overlap between train set and valid/test set can cause data leakage
@@ -33,7 +39,7 @@
 ## 4. Computation power for big data (>100K)
 - Try using a TPU accelerator
   * Cloud TPU is accessible from Google colab and Kaggle 
-  * The two major deep learning frameworks, TensorFlow and Pytorch, are supported by Cloud TPU supports 
+  * The two major deep learning frameworks, TensorFlow and Pytorch, are supported by Cloud TPU 
  > ***Tensor Processing Unit (TPU)** is an AI accelerator application-specific integrated circuit (ASIC) developed by Google specifically for neural network machine learning, particularly using Google's own TensorFlow software.*
 - Training time per epoch
 
