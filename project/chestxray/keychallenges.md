@@ -29,8 +29,8 @@
     * Exclude extremely imbalanced label
 
 - Weighted loss: Weighted binary cross-entropy
-    * postive weight for label j: 
-    * negative wieght for label j: 
+    * postive weight for label j: \frac{The total number of train set}{2*the number of positives in class j} 
+    * negative wieght for label j: \frac{The total number of train set}{2*the number of negatives in class j}
     * Weighted binary cross-entropy for multi-label loss = 
 
 - Proper metrics 
@@ -55,3 +55,5 @@
   GPU | TPU
   :-----: | :-----:
   90 minutes | 90 seconds
+
+[<- go back to the previous page](../chestxray/README.md)
