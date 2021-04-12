@@ -2,21 +2,21 @@
 
 # Walk Through Part 3. Predict and Evaluation
 
-# 1 Load the model
+# 1. Load the model
 
 
 ```python
 model = tf.keras.models.load_model('../input/chestxray-best/nih_densenet121_model.h5', compile=False)
 ```
 
-# 2 Prediction
+# 2. Prediction
 
 
 ```python
 y_pred = model.predict(testloader)
 ```
 
-# 3 Model Evaluation
+# 3. Model Evaluation
 
 ## 3.1 Relevant metrics
 
