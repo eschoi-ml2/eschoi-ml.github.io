@@ -9,7 +9,7 @@
 model = tf.keras.models.load_model('../input/chestxray-best/nih_densenet121_model.h5', compile=False)
 ```
 
-## 2 Prediction
+# 2 Prediction
 
 
 ```python
