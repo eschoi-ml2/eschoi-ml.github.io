@@ -1,6 +1,6 @@
 [<- go back to the previous page](../chestxray/README.md)
 
-# Walk Through Part 3. Predict and Evaluation
+# Walk Through Part 3. Prediction and Evaluation
 
 # 1. Load the model
 
