@@ -9,7 +9,7 @@
   * Multi-label classification
   * Class imbalance
   * Data leakage
-  * Computation power to deal with big data (>100K)
+  * Computation power for big data (>100K)
 - [**Walk through Part2** Deep Learning Process](chestxray-part2.md)
 - [**Walk through Part3** Evaluation of Models](chestxray-part3.md)
 - [Conclusion](conclusion.md)
