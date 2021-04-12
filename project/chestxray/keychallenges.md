@@ -7,12 +7,13 @@
 4. Computation ability for big data (>100K)
 
 ## 1. Multi-label classification
-- Differences between **binary classification**, **Multi-class classification** and **Multi-label classification**
+- Differences between **Binary classification**, **Multi-class classification** and **Multi-label classification**
+
   ![multi-label classification](images/multilabel.png)
 
 - Set up for multi-label classification
   * Assign label_train, label_valid, and label_test with 14 labels
-    ![label](../images/label.png)
+    ![label](images/label.png)
   * Activation function for output layer: Sigmoid
   * Loss function: Binary cross-entropy or Weighted binary cross-entropy
   * Metrics for Tensorflow
