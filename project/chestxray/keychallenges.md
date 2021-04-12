@@ -15,7 +15,7 @@
   * Assign label_train, label_valid, and label_test with 14 labels
     ![label](images/label.png)
   * Activation function for output layer: Sigmoid
-  * Loss function: Binary cross-entropy or Weighted binary cross-entropy
+  * Loss function: Binary cross-entropy or Weighted binary cross-entropy multi-label loss
   * Metrics tips for Tensorflow
     * Use BinaryAccuracy() instead of Accuracy()
     * AUC(multi-label=True)  
@@ -23,8 +23,16 @@
 ## 2. Class imbalance
 
 ![count](images/count.png)
+- Resample
+    * Undersample: low frequency labels 
+    * Oversample: high frequency labels
+    * Exclude extremely imbalanced label
 
-- Weighted loss
+- Weighted loss: Weighted binary cross-entropy
+    * postive weight for label j: 
+    * negative wieght for label j: 
+    * Weighted binary cross-entropy for multi-label loss = 
+
 - Proper metrics 
     * ROC AUC, PR AUC, F1-score 
     * Recall, Precision
@@ -32,15 +40,15 @@
 
 ## 3. Data leakage
 - Patient overlap between train set and valid/test set can cause data leakage
-  * The number of total images: 111,863
-  * The number of unique patients: 30,773
-  * The average number of images per patient: 3.64
+    * The number of total images: 111,863
+    * The number of unique patients: 30,773
+    * The average number of images per patient: 3.64
 - Split train and test set by **Patient ID**, not by Image ID
 
 ## 4. Computation power for big data (>100K)
 - Try using a TPU accelerator
-  * Cloud TPU is accessible from Google colab and Kaggle 
-  * The two major deep learning frameworks, TensorFlow and Pytorch, are supported by Cloud TPU 
+    * Cloud TPU is accessible from Google colab and Kaggle 
+    * The two major deep learning frameworks, TensorFlow and Pytorch, are supported by Cloud TPU 
  > ***Tensor Processing Unit (TPU)** is an AI accelerator application-specific integrated circuit (ASIC) developed by Google specifically for neural network machine learning, particularly using Google's own TensorFlow software.*
 - Training time per epoch
 
