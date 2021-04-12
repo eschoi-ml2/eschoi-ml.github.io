@@ -32,7 +32,7 @@
 ### 2.2 Weighted loss: Weighted binary cross-entropy
 - postive weight for label j
 
-    ![math1](images/math1_2.png):
+    ![math1](images/math1_2.png)
 - negative wieght for label j
 
     ![math2](images/math2_2.png)
