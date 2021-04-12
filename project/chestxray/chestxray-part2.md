@@ -1,4 +1,4 @@
-[<- go back to the previous page](../chestxray)
+[<- go back to the previous page](../chestxray/README.md)
 
 # Walk Through Part 2.
 1. Set up
@@ -1078,4 +1078,4 @@ for i, met in enumerate(['loss', 'roc', 'accuracy', 'precision', 'recall', 'pr']
     
 ![png](__results___50_0.png)
     
-[<- go back to the previous page](../chestxray)
+[<- go back to the previous page](../chestxray/README.md)
