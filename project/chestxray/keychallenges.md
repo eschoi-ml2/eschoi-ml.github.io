@@ -16,8 +16,8 @@
     ![label](images/label.png)
   * Activation function for output layer: Sigmoid
   * Loss function: Binary cross-entropy or Weighted binary cross-entropy
-  * Metrics for Tensorflow
-    * BinaryAccuracy() instead of Accuracy
+  * Metrics tips for Tensorflow
+    * Use BinaryAccuracy() instead of Accuracy()
     * AUC(multi-label=True)  
 
 ## 2. Class imbalance
@@ -33,7 +33,7 @@
 ## 4. Computation power for big data (>100K)
 - Try using a TPU accelerator
   * Cloud TPU is accessible from Google colab and Kaggle 
-  * Cloud TPU supports two major deep learning frameworks, TensorFlow and Pytorch  
+  * The two major deep learning frameworks, TensorFlow and Pytorch, are supported by Cloud TPU supports 
  > ***Tensor Processing Unit (TPU)** is an AI accelerator application-specific integrated circuit (ASIC) developed by Google specifically for neural network machine learning, particularly using Google's own TensorFlow software.*
 - Training time per epoch
 
