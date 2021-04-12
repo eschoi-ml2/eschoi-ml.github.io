@@ -61,7 +61,7 @@
    - Cloud TPU is accessible from Google colab and Kaggle 
    - The two major deep learning frameworks, TensorFlow and Pytorch, are supported by Cloud TPU 
 
-- Training time per epoch
+- Training time per epoch in this study
 
   GPU | TPU
   :-----: | :-----:
