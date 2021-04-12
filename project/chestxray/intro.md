@@ -1,4 +1,4 @@
-[<- PREV](README.md)
+[<- PREV](README.md) [ NEXT->](chestxray-part1.md)
 
 # Introduction
 
@@ -33,4 +33,4 @@
 ## Chest X-ray14 sample images
 ![xraysample](images/xraysample.png)
 
-[<- PREV](README.md)
+[<- PREV](README.md) [ NEXT->](chestxray-part1.md)
