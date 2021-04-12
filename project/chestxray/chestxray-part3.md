@@ -1,22 +1,24 @@
+[<- go back to the previous page](../chestxray/README.md)
+
 # Walk Through Part 3. Predict and Evaluation
 
-## 3.1 Load the model
+# 1 Load the model
 
 
 ```python
 model = tf.keras.models.load_model('../input/chestxray-best/nih_densenet121_model.h5', compile=False)
 ```
 
-## 3.2 Prediction
+## 2 Prediction
 
 
 ```python
 y_pred = model.predict(testloader)
 ```
 
-## 3.2 Model Evaluation
+# 3 Model Evaluation
 
-### 3.2.1 Relevant metrics
+## 3.1 Relevant metrics
 
 
 ```python
@@ -293,7 +295,7 @@ results
 
 
 
-### 3.2.2 Plot ROC curve and ROC AUC
+## 3.2 Plot ROC curve and ROC AUC
 
 
 ```python
@@ -335,7 +337,7 @@ AUROCs = compute_AUCs(label_test, y_pred)
     
 
 
-### 3.2.3 Visualize test set images
+## 3.3 Visualize test set images
 
 
 ```python
@@ -376,4 +378,4 @@ testset_visualize(testloader, y_pred, labeled=True, normalized=True)
     
 ![png](output_16_0.png)
     
-
+[<- go back to the previous page](../chestxray/README.md)
