@@ -23,6 +23,5 @@
 # 4 Computation ability for big data (>100K)
 - Try using a TPU accelerator
  > ***Tensor Processing Unit (TPU)** is an AI accelerator application-specific integrated circuit (ASIC) developed by Google specifically for neural network machine learning, particularly using Google's own TensorFlow software.*
-- Training time per epoch
-
+- Training time per epoch\s\s
 90 minutes with GPU vs. 90 seconds with TPU
