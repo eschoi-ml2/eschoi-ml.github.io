@@ -1076,6 +1076,6 @@ for i, met in enumerate(['loss', 'roc', 'accuracy', 'precision', 'recall', 'pr']
 
 
     
-![png](output_52_0.png)
+![png](__results___50_0.png)
     
 [<- go back to the previous page](../chestxray)
