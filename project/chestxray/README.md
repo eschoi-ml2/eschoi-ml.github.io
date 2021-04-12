@@ -5,7 +5,7 @@
 ## Outline
 - [Introduction: NIH Chest X-ray14 dataset](intro.md)
 - [**Walk through Part1** Exploratory Data Analysis](chestxray-part1.md) 
-- [Key challenges](keychallenges.md)
+- [4 Key challenges](keychallenges.md)
   * Multi-label classification
   * Class imbalance
   * Data leakage
