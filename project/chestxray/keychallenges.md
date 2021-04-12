@@ -58,8 +58,8 @@
 
  > ***Tensor Processing Unit (TPU)** is an AI accelerator application-specific integrated circuit (ASIC) developed by Google specifically for neural network machine learning, particularly using Google's own TensorFlow software.*
 
-    * Cloud TPU is accessible from Google colab and Kaggle 
-    * The two major deep learning frameworks, TensorFlow and Pytorch, are supported by Cloud TPU 
+   - Cloud TPU is accessible from Google colab and Kaggle 
+   - The two major deep learning frameworks, TensorFlow and Pytorch, are supported by Cloud TPU 
 
 - Training time per epoch
 
