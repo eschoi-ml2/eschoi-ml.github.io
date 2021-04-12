@@ -21,7 +21,8 @@
     * AUC(multi-label=True)  
 
 ## 2. Class imbalance
-![count](image/count.png)
+
+![count](images/count.png)
 
 - Weighted loss
 - Proper metrics 
