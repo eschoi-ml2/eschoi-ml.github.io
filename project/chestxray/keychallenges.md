@@ -24,22 +24,22 @@
 
 ![count](images/count.png)
 ### 2.1 Resample
-    * Undersample: low frequency labels 
-    * Oversample: high frequency labels
-    * Exclude extremely imbalanced label
+- Undersample: low frequency labels 
+- Oversample: high frequency labels
+- Exclude extremely imbalanced label
 
 
 ### 2.2 Weighted loss: Weighted binary cross-entropy
-    * postive weight for label j: $ w_{pj} = \frac{The-total-number-of-train-set}{2 * the-number-of-positives-in-class-j} $ 
-    * negative wieght for label j: $ w_{nj} = \frac{The-total-number-of-train_set}{2 * the-number-of-negatives-in-class-j} $
-    * Weighted binary cross-entropy for multi-label loss = 
+- postive weight for label j: $ w_{pj} = \frac{The-total-number-of-train-set}{2 * the-number-of-positives-in-class-j} $ 
+- negative wieght for label j: $ w_{nj} = \frac{The-total-number-of-train_set}{2 * the-number-of-negatives-in-class-j} $
+- Weighted binary cross-entropy for multi-label loss = 
       $ -\frac{1}{N * C} \sum_{j=1}^{C}  \sum_{i=1}^{N} w_{pj} y_{j}^{(i)}log \hat{y}_ {j}^{(i)} + w_{nj}(1-y_{j}^{(i)})log (1-\hat{y}_ {j}^{(i)}) $
 
 
 ### 2.3 Proper metrics 
-    * ROC AUC, PR AUC, F1-score 
-    * Recall, Precision
-    * Do not use Accuracy
+- ROC AUC, PR AUC, F1-score 
+- Recall, Precision
+- Do not use Accuracy
 
 
 ## 3. Data leakage
