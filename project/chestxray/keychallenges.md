@@ -14,7 +14,7 @@
 
 
 ## 3. Data leakage
-- Patient overlap between train set and valid/test set can lead to data leakage
+- Patient overlap between train set and valid/test set can cause data leakage
   * The number of total images: 111,863
   * The number of unique patients: 30,773
   * The average number of images per patient: 3.64
