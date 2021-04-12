@@ -16,7 +16,7 @@ model = tf.keras.models.load_model('../input/chestxray-best/nih_densenet121_mode
 y_pred = model.predict(testloader)
 ```
 
-# 3. Model Evaluation
+# 3. Evaluation
 
 ## 3.1 Relevant metrics
 
