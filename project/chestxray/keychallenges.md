@@ -55,9 +55,12 @@
 
 ## 4. Computation power for big data (>100K)
 - Try using a TPU accelerator
+
+ > ***Tensor Processing Unit (TPU)** is an AI accelerator application-specific integrated circuit (ASIC) developed by Google specifically for neural network machine learning, particularly using Google's own TensorFlow software.*
+
     * Cloud TPU is accessible from Google colab and Kaggle 
     * The two major deep learning frameworks, TensorFlow and Pytorch, are supported by Cloud TPU 
- > ***Tensor Processing Unit (TPU)** is an AI accelerator application-specific integrated circuit (ASIC) developed by Google specifically for neural network machine learning, particularly using Google's own TensorFlow software.*
+
 - Training time per epoch
 
   GPU | TPU
