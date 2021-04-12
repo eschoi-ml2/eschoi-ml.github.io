@@ -15,5 +15,3 @@
 - [Results](results.md)
 - [Conclusion](conclusion.md)
 - [References](references.md)
-
-[<-PREV ](../README.md) [ NEXT->](intro.md)
