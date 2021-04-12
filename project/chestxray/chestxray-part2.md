@@ -1,3 +1,5 @@
+[<- go back to the previous page](../chestxray)
+
 # Walk Through Part 2.
 1. Set up
 2. Train Test split
@@ -854,7 +856,7 @@ trainset_visualize(trainloader)
     
 
 
-## 5. Build a model
+# 5. Build a model
 
 ## 5.1 Weighted loss
 
@@ -1076,4 +1078,4 @@ for i, met in enumerate(['loss', 'roc', 'accuracy', 'precision', 'recall', 'pr']
     
 ![png](output_52_0.png)
     
-
+[<- go back to the previous page](../chestxray)
