@@ -1,6 +1,6 @@
 [<- go back to the previous page](../chestxray/README.md)
 
-# Outline Part 1
+# Walk Through Part 1
 1. Import libraries, set up directories, and read data 
 2. Quick data check
 3. Feature engineering
