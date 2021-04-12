@@ -30,5 +30,5 @@
 - Training time per epoch
 
   GPU | TPU
-  ----- | -----
+  :-----: | :-----:
   90 minutes | 90 seconds
