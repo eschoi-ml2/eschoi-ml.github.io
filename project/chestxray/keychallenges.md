@@ -8,7 +8,7 @@
 
 ## 1. Multi-label classification
 - Differences between **binary classification**, **Multi-class classification** and **Multi-label classification**
-  ![multi-label classification](../images/multilabel.png)
+  ![multi-label classification](images/multilabel.png)
 
 - Set up for multi-label classification
   * Assign label_train, label_valid, and label_test with 14 labels
