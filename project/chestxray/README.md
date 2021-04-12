@@ -1,4 +1,4 @@
-[<- go back to the previous page](../README.md)
+[<-PREV ](../README.md) [ NEXT->](intro.md)
 
 # Multi-Label Disease Classification on Chest X-ray with Deep Learning
 
@@ -15,3 +15,5 @@
 - [Results](results.md)
 - [Conclusion](conclusion.md)
 - [References](references.md)
+
+[<-PREV ](../README.md) [ NEXT->](intro.md)
