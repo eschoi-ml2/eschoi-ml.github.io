@@ -11,7 +11,7 @@
   * Data leakage
   * Computation power for big data (>100K)
 - [**Walk through Part2** Deep Learning Process](chestxray-part2.md)
-- [**Walk through Part3** Evaluation of Models](chestxray-part3.md)
+- [**Walk through Part3** Prediction on Teset set and Evaluation of Models](chestxray-part3.md)
 - [Results](results.md)
 - [Conclusion](conclusion.md)
 - [References](references.md)
