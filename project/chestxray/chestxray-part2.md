@@ -944,7 +944,7 @@ def build_model():
 ```
 
 ## 5.3 Compile
-- strategy.scopre() for **TPU**
+- strategy.scope() for **TPU**
 - Accuracy calculation for Multi-label: Use BinaryAccuracy() instead of regular Accuracy() 
 - Class imbalance solution: Use metrics, Precision, Recall, PR AUC, ROC AUC
 
