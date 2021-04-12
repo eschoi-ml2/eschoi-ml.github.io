@@ -1,6 +1,5 @@
 [<- go back to the previous page](../chestxray/README.md)
 
-
 # 4 key challenges
 1. Multi-label classification
 2. Class imbalance
@@ -8,7 +7,17 @@
 4. Computation ability for big data (>100K)
 
 ## 1. Multi-label classification
+- Differences between **binary classification**, **Multi-class classification** and **Multi-label classification**
+  ![multi-label classification](../images/multilabel.png)
 
+- Set up for multi-label classification
+  * Assign label_train, label_valid, and label_test with 14 labels
+    ![label](../images/label.png)
+  * Activation function for output layer: Sigmoid
+  * Loss function: Binary cross-entropy or Weighted binary cross-entropy
+  * Metrics for Tensorflow
+    * BinaryAccuracy() instead of Accuracy
+    * AUC(multi-label=True)  
 
 ## 2. Class imbalance
 
@@ -20,8 +29,10 @@
   * The average number of images per patient: 3.64
 - Split train and test set by **Patient ID**, not by Image ID
 
-## 4. Computation ability for big data (>100K)
-- Try using a TPU accelerator if TensorFlow is your deep learning framework
+## 4. Computation power for big data (>100K)
+- Try using a TPU accelerator
+  * Cloud TPU is accessible from Google colab and Kaggle 
+  * Cloud TPU supports two major deep learning frameworks, TensorFlow and Pytorch  
  > ***Tensor Processing Unit (TPU)** is an AI accelerator application-specific integrated circuit (ASIC) developed by Google specifically for neural network machine learning, particularly using Google's own TensorFlow software.*
 - Training time per epoch
 
