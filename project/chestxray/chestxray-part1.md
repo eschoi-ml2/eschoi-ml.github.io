@@ -1,4 +1,4 @@
-[<- go back to the previous page](../chestxray/README.md)
+[<- PREV](README.md) [ NEXT ->](keychallenges.md)
 
 # Walk Through Part 1
 1. Import libraries, set up directories, and read data 
@@ -1202,4 +1202,4 @@ df.head()
 </div>
 
 
-[<- go back to the previous page](../chestxray/README.md)
+[<- PREV](README.md) [ NEXT ->](keychallenges.md)
