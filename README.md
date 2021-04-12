@@ -1,4 +1,4 @@
-Hi, I'm a Machine Learning scienetist based in Silicon Valley, California. 
+Hi, I'm a Machine Learning scientist based in Silicon Valley, California. 
 This Gibhub page is to share Machine Learning related knowledge and projects that I have worked on.
 
 ## [Lecture Slide](lecture_slide/README.md)
