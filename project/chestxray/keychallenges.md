@@ -33,7 +33,7 @@
 - postive weight for label j
 
     ![math1](images/math1.png)
-- negative wieght for label j
+- negative wieght for label j:  $ \frac{2 * The-total-number-of-train-set}{The-number-of-negatives-in-calss-j} $
 
     ![math2](images/math2.png)
 - Weighted binary cross-entropy for multi-label loss
