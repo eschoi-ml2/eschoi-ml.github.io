@@ -1,3 +1,5 @@
+[<- PREV ](chestxray-part3.md)
+
 # Results
 
 # 1. Comparision with unweighted loss (BCE)
@@ -664,3 +666,4 @@
 </table>
 </div>
 
+[<- PREV ](chestxray-part3.md)
