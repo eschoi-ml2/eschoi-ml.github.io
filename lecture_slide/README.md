@@ -1,3 +1,3 @@
-[<- PREV](README.md)
+[<- PREV](../README.md)
 
 ### In preparation
