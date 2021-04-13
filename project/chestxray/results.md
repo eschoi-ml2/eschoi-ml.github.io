@@ -6,9 +6,6 @@
 ### BCE 
 
 
-```python
-
-```
 
 
 
@@ -250,9 +247,6 @@
 ### Weighted BCE
 
 
-```python
-
-```
 
 
 
@@ -495,9 +489,7 @@
 ### BCE
 
 
-```python
 
-```
 
 
     
@@ -522,9 +514,7 @@
 ### BCE
 
 
-```python
 
-```
 
 
     
@@ -548,9 +538,7 @@
 # 2. Comparison with previous works
 
 
-```python
 
-```
 
 
 
@@ -682,9 +670,3 @@
 </table>
 </div>
 
-
-
-
-```python
-
-```
