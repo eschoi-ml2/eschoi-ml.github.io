@@ -1,3 +1,3 @@
-[<- go back to the main page](../README.md)
+[<- PREV](README.md)
 
 ### In preparation
