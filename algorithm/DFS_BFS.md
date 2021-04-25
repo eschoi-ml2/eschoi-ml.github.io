@@ -1,11 +1,13 @@
 # Basic DFS & BFS
 
 ## 1. Depth First Search
-### 1.1 Depth First Search: Return True or False if you can reach a target node('F') from a starting node ('A')
+### 1.1 Depth First Search
+Problem: Return True or False if you can reach a target node('F') from a starting node ('A')
 - 1. Recursive
 - 2. Iterative
 
-### 1.2 Depth First **Path** Search: Return the path from a starting node ('A') to a target node('F') 
+### 1.2 Depth First **Path** Search
+Problem: Return the path from a starting node ('A') to a target node('F') 
 - Find a single path
     > 1. singlePath_recursive
     > 2. singlePath_iterative 
@@ -13,8 +15,10 @@
     > 1. allPath_recursive: 
 
 ## 2. Breath First Search
-### 2.1 Breath Frist Search - Iterative: Return the depth if you can reach a target node('F') from a starting node ('A'). If not, return -1
-### 2.2 Breath First **Path** Search - Iterative: Return the path from a starting node ('A') to a target node('F')
+### 2.1 Breath Frist Search - Iterative
+Problem: Return the depth if you can reach a target node('F') from a starting node ('A'). If not, return -1
+### 2.2 Breath First **Path** Search - Iterative
+Problem: Return the path from a starting node ('A') to a target node('F')
 
 
 ```python
