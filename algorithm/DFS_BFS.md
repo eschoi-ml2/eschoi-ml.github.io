@@ -53,6 +53,17 @@ print_graph(graph)
     F:[]
 
 
+```python
+def reconstruct_path(node1, node2, previous):
+    
+    node = node2
+    path = [node]
+    while  node!= node1:
+        node = previous[node]
+        path.append(node)
+    return "->".join(path[::-1])   
+```
+
 # 1.1 DFS recursive & iterative
 
 
