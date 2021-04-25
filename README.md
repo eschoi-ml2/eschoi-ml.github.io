@@ -3,7 +3,7 @@ This Gibhub page is to share Machine Learning related knowledge and projects tha
 
 ## [Machine Learning Project](project/README.md)
 
-## [Lecture Slide](lecture_slide/README.md)
+## [Lecture Note](lecture_slide/README.md)
 
 ## [Data Structure & Algorithm](dsa/README.md)
 
