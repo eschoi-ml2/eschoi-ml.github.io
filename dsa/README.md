@@ -44,7 +44,7 @@ Basic categories of algorithms: Insert, Update, Delete, Sort, and Search
 - Linear search
 - Binary search
 
-**Code along Lecture Slide: [Basic DFS & BFS](DFS_BFS.md)**
+>> **Code along Lecture Slide: [DFS & BFS](DFS_BFS.md)**
 
 - Depth first search/ Backtracking
 - Breath first search
