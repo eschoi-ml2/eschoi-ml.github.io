@@ -59,7 +59,7 @@ Looks for locally optimum solutions in the hopes of finding a global optimum
 - Prim's algorithm
 
 ### Dynamic programming
-Problems that have overlapping subproblems and optimal substructure property (If not, a recursive algorithm using a divide and conquer approach)
+Problems that have overlapping subproblems AND optimal substructure property (If not, use a recursive algorithm using a divide and conquer approach)
 - Floyd-Warshall algorithm
 - Longest Common Sequence
 
