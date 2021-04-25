@@ -20,6 +20,8 @@
   - Height-balanced Binary (Search) Tree
   - AVL Tree  
   - Trie
+  - Decision Tree
+  - B, B+, Red-Black Tree
 
 ## Algorithm
 Basic categories of algorithms: Insert, Update, Delete, Sort, and Search
