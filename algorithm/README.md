@@ -29,9 +29,12 @@
 - bucket sort
 - topological sort
 - kahn's topological sort
+
+
 ### Search
+1. [Basic DFS & BFS](DFS_BFS.md)
+2. [Shortest Path]()
 - Binary search
-- [[DFS & BFS]](DFS_BFS.md)
 - Depth first search/ Backtracking
 - Breath first search
 - Bidirectional search
@@ -39,6 +42,8 @@
 - Greedy algorithm
 - A*(A star)
 - Bellman-Ford algorithm
+
+
 ### Dynamic programming
 
 [<- PREV](../README.md)
