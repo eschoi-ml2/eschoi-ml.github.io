@@ -3,14 +3,14 @@
 # What kind of data structure and algorithm are you going to use?
 ## Data Structure
 ### Basic data structure
-- Array(list)
-- Hash Map(dict)
-- Hash Set(set)
+- Array (list)
+- Hash Map (dict)
+- Hash Set (set)
 
 ### Abstract data structure
 - Stack (list)
-- Simple/Circular/Priority/Double-Ended Queue (deque, heap)
-- Singly/Doubly/Circular Linked List (list)
+- Simple/ Circular/ Priority/ Double-Ended Queue (deque, heap)
+- Singly/ Doubly/ Circular Linked List (list)
 - Graph
 - Tree
   - N-ary Tree
