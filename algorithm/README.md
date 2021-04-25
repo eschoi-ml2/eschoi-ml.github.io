@@ -7,11 +7,11 @@
 - Hash Set(set)
 
 ### Abstract data structure
--Stack
--Queue/Priority Queue
--Singly/Doubly Linked List
--Graph
--Tree/Trie
+- Stack
+- Queue/Priority Queue
+- Singly/Doubly Linked List
+- Graph
+- Tree/Trie
 
 ## Algorithm
 ### Sort
