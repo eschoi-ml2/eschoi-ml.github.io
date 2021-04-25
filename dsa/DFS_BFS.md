@@ -1,6 +1,6 @@
 [<- PREV](README.md)
 
-# Basic DFS & BFS
+# DFS & BFS
 
 ## 1. Depth First Search
 ### 1.1 Depth First Search
