@@ -1,3 +1,4 @@
+[<- PREV](../README.md)
 
 # What kind of data structure and algorithm are you going to use?
 ## Data Structure
@@ -38,3 +39,5 @@
 - A*(A star)
 - Bellman-Ford algorithm
 ### Dynamic programming
+
+[<- PREV](../README.md)
