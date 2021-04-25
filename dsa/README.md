@@ -46,13 +46,13 @@ Basic categories of algorithms: Insert, Update, Delete, Sort, and Search
 - Linear search
 - Binary search
 
-> **Code along Lecture Slide: [DFS & BFS](DFS_BFS.md)**
+> **Code Along Lecture Note: [DFS & BFS](DFS_BFS.md)**
 
 - Depth first search/ Backtracking
 - Breath first search
 - Bidirectional search (if undirected)
 
-> **Code along Lecture Slide: [Shortest Path]()**
+> **Code Along Lecture Note: [Shortest Path]()**
 
 - Bellman Ford's algorithm (if negative weighted) 
 - Dijkstra's algorithm (if positive weighted) 
