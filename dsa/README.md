@@ -11,6 +11,8 @@
 - Stack (list)
 - Simple/ Circular/ Priority/ Double-Ended Queue (deque, heap)
 - Singly/ Doubly/ Circular Linked List (list)
+- Graph: Undirected/ Directed, Connected/ Disconnected, Cyclic/ Acyclic
+  - (Minimum) Spanning Tree 
 - Tree
   - N-ary Tree
   - Binary Tree
@@ -18,8 +20,6 @@
   - Height-balanced Binary (Search) Tree
   - AVL Tree  
   - Trie
-- Graph: Undirected/ Directed, Connected/ Disconnected, Cyclic/ Acyclic
-  - (Minimum) Spanning Tree 
 
 ## Algorithm
 Basic categories of algorithms: Insert, Update, Delete, Sort, and Search
