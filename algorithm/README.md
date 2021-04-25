@@ -31,6 +31,7 @@
 - kahn's topological sort
 ### Search
 - Binary search
+- [[DFS & BFS]](DFS_BFS.md)
 - Depth first search/ Backtracking
 - Breath first search
 - Bidirectional search
