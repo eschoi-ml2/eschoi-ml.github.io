@@ -11,7 +11,7 @@
 - Stack (list)
 - Simple/ Circular/ Priority/ Double-Ended Queue (deque, heap)
 - Singly/ Doubly/ Circular Linked List (list)
-- Graph: Undirected/ Directed, Connected/ Disconnected, Cyclic/ Acyclic
+- Graph: Directed/Undirected, Connected/ Disconnected, Cyclic/ Acyclic, Weighted/Unweighted
   - (Minimum) Spanning Tree 
 - Tree
   - N-ary Tree
@@ -49,13 +49,14 @@ Basic categories of algorithms: Insert, Update, Delete, Sort, and Search
 - Depth first search/ Backtracking
 - Breath first search
 - Bidirectional search (if undirected)
-- Bellman Ford's algorithm
-- A*(A star) search
+
+- Bellman Ford's algorithm (if negative weighted) 
+- Dijkstra's algorithm 
+- A*(A star) search (Best First Search)
 
 ### Greedy algorithm
 Looks for locally optimum solutions in the hopes of finding a global optimum
 - Ford-Fulkerson algorithm
-- Dijkstra's minimum spanning tree algorithm
 - Kruskal's minimum spanning tree algorithm
 - Prim's minimum spanning tree algorithm
 - Huffman coding
