@@ -12,7 +12,7 @@
 - Simple/ Circular/ Priority/ Double-Ended Queue (deque, heap)
 - Singly/ Doubly/ Circular Linked List (list)
 - Graph: Directed/Undirected, Connected/ Disconnected, Cyclic/ Acyclic, Weighted/Unweighted
-  - (Minimum) Spanning Tree 
+  - (Minimum) Spanning Tree: Undirected, Connected
 - Tree
   - N-ary Tree
   - Binary Tree
