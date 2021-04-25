@@ -1,3 +1,5 @@
+[<- PREV](README.md)
+
 # Basic DFS & BFS
 
 ## 1. Depth First Search
@@ -311,3 +313,4 @@ bfs_path(graph, 'A', 'F')
     bfs_path_iterative1:  A->C->F
     bfs_path_iterative2:  A->C->F
 
+[<- PREV](README.md)
