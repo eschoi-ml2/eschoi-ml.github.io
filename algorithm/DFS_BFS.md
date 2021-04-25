@@ -11,8 +11,9 @@ Problem: Return the path from a starting node ('A') to a target node('F')
 - Find a single path
   - 1. singlePath_recursive
   - 2. singlePath_iterative 
-- Find all paths: **Backtracking**. 
-  - 1. allPath_recursive: 
+ 
+- Find all paths: **Backtracking** 
+  - 1. allPath_recursive
 
 ## 2. Breath First Search
 ### 2.1 Breath Frist Search - Iterative
